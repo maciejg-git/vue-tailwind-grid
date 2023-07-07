@@ -1,6 +1,6 @@
 {
   "name": "vue-tailwind-grid",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Light Vue components to make flexbox based grids with Tailwindcss classes. The design and features are similar to Bootstrap grids.",
   "main": "index.js",
   "scripts": {
