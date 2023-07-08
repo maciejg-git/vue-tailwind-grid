@@ -4,6 +4,8 @@ Light Vue components to make flexbox based grids with Tailwindcss classes. The d
 
 [Documentation and examples.](https://vue-litewind.netlify.app/documentation/grid)
 
+## Installation
+
 ```bash
 npm install vue-tailwind-grid
 ```
@@ -29,7 +31,7 @@ module.exports = {
 }
 ```
 
-... or copy vue files, import and register as usual.
+## Example
 
 Example of simple 12 columns grid:
 
