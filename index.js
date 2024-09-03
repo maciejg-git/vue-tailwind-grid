@@ -1,4 +1,4 @@
-import * as grid from "./components"
+import * as grid from "./grid-components"
 
 export default {
   install(app, options) {
