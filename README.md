@@ -6,6 +6,7 @@ Light Vue components to make flexbox based grids with Tailwindcss classes. The d
 
 ## Installation
 
+**[Option 1]** Install vue plugin from npm
 ```bash
 npm install vue-tailwind-grid
 ```
@@ -25,11 +26,13 @@ Add `vue-tailwind-grid` to `content` array so tailwind can generate classes used
 
 module.exports = {
   content: [
-    "node_modules/vue-tailwind-grid/components/*.vue",
+    "node_modules/vue-tailwind-grid/grid-components/*.vue",
     ...
   ],
 }
 ```
+
+**[Option 2]** or simply copy/clone `grid-components` to your `src` and register them normally as components.
 
 ## Example
 
